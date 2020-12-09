@@ -421,6 +421,7 @@ position = Vector2( 512, 300 )
 [node name="music" type="AudioStreamPlayer2D" parent="."]
 pause_mode = 2
 stream = ExtResource( 5 )
+autoplay = true
 
 [node name="enemy_spawner" type="Timer" parent="."]
 
