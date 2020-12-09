@@ -52,6 +52,11 @@ animations = [ {
 "name": "lamprey_idle",
 "speed": 5.0
 }, {
+"frames": [ ExtResource( 28 ), ExtResource( 9 ), ExtResource( 16 ), ExtResource( 10 ), ExtResource( 12 ), ExtResource( 17 ), ExtResource( 11 ), ExtResource( 13 ), ExtResource( 18 ), ExtResource( 15 ) ],
+"loop": true,
+"name": "orca_idle",
+"speed": 5.0
+}, {
 "frames": [ ExtResource( 23 ), ExtResource( 24 ), ExtResource( 25 ), ExtResource( 26 ) ],
 "loop": true,
 "name": "lamprey_move",
@@ -61,11 +66,6 @@ animations = [ {
 "loop": false,
 "name": "lamprey_death",
 "speed": 5.0
-}, {
-"frames": [ ExtResource( 28 ), ExtResource( 9 ), ExtResource( 16 ), ExtResource( 10 ), ExtResource( 12 ), ExtResource( 17 ), ExtResource( 11 ), ExtResource( 13 ), ExtResource( 18 ), ExtResource( 15 ) ],
-"loop": true,
-"name": "orca_idle",
-"speed": 5.0
 } ]
 
 [sub_resource type="RectangleShape2D" id=2]
@@ -73,7 +73,7 @@ extents = Vector2( 60.0692, 7.80615 )
 
 [sub_resource type="Animation" id=3]
 resource_name = "damage"
-length = 0.2
+length = 0.4
 step = 0.05
 tracks/0/type = "value"
 tracks/0/path = NodePath("sprite:modulate")
@@ -82,10 +82,10 @@ tracks/0/loop_wrap = true
 tracks/0/imported = false
 tracks/0/enabled = true
 tracks/0/keys = {
-"times": PoolRealArray( 0, 0.05, 0.1, 0.15, 0.2 ),
+"times": PoolRealArray( 0, 0.1, 0.2, 0.3, 0.4 ),
 "transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
-"update": 1,
-"values": [ Color( 1, 1, 1, 1 ), Color( 0, 0, 0, 1 ), Color( 1, 1, 1, 1 ), Color( 0, 0, 0, 1 ), Color( 1, 1, 1, 1 ) ]
+"update": 0,
+"values": [ Color( 1, 1, 1, 1 ), Color( 1, 0, 0, 1 ), Color( 1, 1, 1, 1 ), Color( 1, 0, 0, 1 ), Color( 1, 1, 1, 1 ) ]
 }
 
 [sub_resource type="Animation" id=4]
