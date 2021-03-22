@@ -136,5 +136,5 @@
    
   <h1> Acknowledgments </h1>
   <p>
-      This game was inspired entirely by Talib Kweli's verse on <a href='https://youtu.be/-DY94XFbocU?t=137'>The Truth by Pharoahe Monch</a>.
+      <a href='https://www.ikea.com/us/en/p/blahaj-soft-toy-shark-90373590/'> Blahaj the plushie! </a>
   </p>
