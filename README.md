@@ -1,11 +1,9 @@
 
   <img src="readme_assets/intro.gif" alt="Youtube_trailer" width='100%' height='auto'/>
   <p>
-      God has created the ever-flowing river of Time and omnipresent gust of Truth. 
-      Torn by Desire, Man scours the world for an answer. 
-      What is right, and which is the path of Truth? Only Time will tell.
+      Help Blåhaj make the arduous journey towards warmer waters..
   </p>
-  <a href='https://www.youtube.com/watch?v=BIx0HM_9wcU'>Trailer</a>
+  <a href='https://youtu.be/cYoHiLhbMKY'>Trailer</a>
   
   
   
