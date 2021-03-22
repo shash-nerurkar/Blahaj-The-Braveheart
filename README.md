@@ -9,48 +9,43 @@
   
   <h1> Gallery </h1>
   <p>
-      There are 4 entities, God, Time, Truth and Man. 
-      <br/> <br/>
-      God created Time, so Man could flow in the river of existence. God created Truth, so Man could fight it's ripple. But, God never told Man of their presence. 
+      Pick between Blahaj the shark, or Genomblot the dolphin.
+      <br/> 
+      Blahaj is agile and strong, whereas Genomblot is durable and clever.
   </p>
   <img src='readme_assets\story_1.png' alt="story_1" width='70%' height='auto'/>
-  
-  <p>
-      Upon Man, God bestowed the flower of Desire. Man gladly accepted, unbeknownst of its shackles.
-  </p>
+  <br/> 
   <img src='readme_assets\story_2.png' alt="story_2" width='70%' height='auto'/>
-  
-  <p>
-      Truth is omnipresent. It manifests one of the many paths that Man has. 
-  </p>
+  <br/> 
   <img src='readme_assets\story_3.png' alt="story_3" width='70%' height='auto'/>
   
   <p>
-      Man is a slave to his Desire.
+      Fight various enemies, ranging from killer whales..
   </p>
   <img src='readme_assets\story_4.png' alt="story_4" width='70%' height='auto'/>
-  
   <p>
-    The paths of Truth & Desire may diverge...
+      ..to eels..
   </p>
   <img src='readme_assets\story_5.png' alt="story_5" width='70%' height='auto'/>
+  <p>
+      ..to humans.
+  </p>
+  <img src='readme_assets\story_9.png' alt="story_9" width='70%' height='auto'/>
   
   <p>
-      ..or converge.
+      Navigate through different depths of the ocean, dodging obstacles and slicing enemies.
   </p>
-  <img src='readme_assets\story_6.png' alt="story_5" width='70%' height='auto'/>
+  <img src='readme_assets\story_2.png' alt="story_2" width='70%' height='auto'/>
+  <img src='readme_assets\story_5.png' alt="story_5" width='70%' height='auto'/>
+  <img src='readme_assets\story_7.png' alt="story_7" width='70%' height='auto'/>
+  <img src='readme_assets\story_8.png' alt="story_8" width='70%' height='auto'/>
   
   <p>
-      Time is ever-flowing. Without it, Man cannot exist.
+  And for all to have a little fuzzy bath!<sub><sup> and maintain his core body temperature</sup></sub> All in a shark's day.
   </p>
-  <img src='readme_assets\story_7.png' alt="story_5" width='70%' height='auto'/>
-  
-  <p>
-      At the end of Man's journey, God welcomes him warmly. The pain of choice and the shackles of regret are undone.
-  </p>
-  <img src='readme_assets\story_8.png' alt="story_5" width='70%' height='auto'/>
+  <img src='readme_assets\story_10.png' alt="story_10" width='70%' height='auto'/>
   <br/> <br/>
-  <img src='readme_assets\story_9.png' alt="story_5" width='70%' height='auto'/>
+  <img src='readme_assets\story_11.png' alt="story_11" width='70%' height='auto'/>
   
   
   
